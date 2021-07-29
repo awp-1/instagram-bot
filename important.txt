@@ -1,0 +1,16 @@
+SOme of important things which we are going to use are as follow
+1> python 3.0 or above
+2> we use selenium for the automation (creating insta bot) 
+3> we need chromedriver,FirefoxDriver(there are many) but i use chrome
+ 
+first we see how to install python 
+https://realpython.com/installing-python/
+this is a very use full ling to under stand
+
+than we install selenium in our computer
+pip install -U selenium 
+this is the command
+
+and last but important webDriver
+search webDriver for chrome
+(https://chromedriver.chromium.org/)
